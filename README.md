@@ -1,2 +1,2 @@
 # Relevant-data-information-of-Instance-3
-The relevant data for Instance 3 (from Lvhua Railway Station to Hangzhoubei Railway Station)
+The relevant data for Instance 3 (from Lvhua Railway Station to Hangzhoubei Railway Station).This dataset includes the number and types of freight cars, the origin and destination railway station, transport mileage, terrain, and actual rolled steel information (such as rolled steel ID, product type, diameter, weight, width, DWR, and other parameters).
